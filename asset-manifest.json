@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Covid-19-Dashboard/static/css/main.8395d8e5.chunk.css",
-    "main.js": "/Covid-19-Dashboard/static/js/main.a6def69b.chunk.js",
-    "main.js.map": "/Covid-19-Dashboard/static/js/main.a6def69b.chunk.js.map",
-    "runtime-main.js": "/Covid-19-Dashboard/static/js/runtime-main.07676587.js",
-    "runtime-main.js.map": "/Covid-19-Dashboard/static/js/runtime-main.07676587.js.map",
-    "static/js/2.a223dc21.chunk.js": "/Covid-19-Dashboard/static/js/2.a223dc21.chunk.js",
-    "static/js/2.a223dc21.chunk.js.map": "/Covid-19-Dashboard/static/js/2.a223dc21.chunk.js.map",
-    "index.html": "/Covid-19-Dashboard/index.html",
-    "precache-manifest.f5718d04014a588794e99245516427fc.js": "/Covid-19-Dashboard/precache-manifest.f5718d04014a588794e99245516427fc.js",
-    "service-worker.js": "/Covid-19-Dashboard/service-worker.js",
-    "static/css/main.8395d8e5.chunk.css.map": "/Covid-19-Dashboard/static/css/main.8395d8e5.chunk.css.map",
-    "static/media/logo.png": "/Covid-19-Dashboard/static/media/logo.2e8a320b.png"
+    "main.css": "/Tamil-Bible/static/css/main.8395d8e5.chunk.css",
+    "main.js": "/Tamil-Bible/static/js/main.366edbb1.chunk.js",
+    "main.js.map": "/Tamil-Bible/static/js/main.366edbb1.chunk.js.map",
+    "runtime-main.js": "/Tamil-Bible/static/js/runtime-main.640dd995.js",
+    "runtime-main.js.map": "/Tamil-Bible/static/js/runtime-main.640dd995.js.map",
+    "static/js/2.0d47cc8f.chunk.js": "/Tamil-Bible/static/js/2.0d47cc8f.chunk.js",
+    "static/js/2.0d47cc8f.chunk.js.map": "/Tamil-Bible/static/js/2.0d47cc8f.chunk.js.map",
+    "index.html": "/Tamil-Bible/index.html",
+    "precache-manifest.64e32129b727e0dd6711da8d8008b2d1.js": "/Tamil-Bible/precache-manifest.64e32129b727e0dd6711da8d8008b2d1.js",
+    "service-worker.js": "/Tamil-Bible/service-worker.js",
+    "static/css/main.8395d8e5.chunk.css.map": "/Tamil-Bible/static/css/main.8395d8e5.chunk.css.map",
+    "static/media/logo.png": "/Tamil-Bible/static/media/logo.2e8a320b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07676587.js",
-    "static/js/2.a223dc21.chunk.js",
+    "static/js/runtime-main.640dd995.js",
+    "static/js/2.0d47cc8f.chunk.js",
     "static/css/main.8395d8e5.chunk.css",
-    "static/js/main.a6def69b.chunk.js"
+    "static/js/main.366edbb1.chunk.js"
   ]
 }
